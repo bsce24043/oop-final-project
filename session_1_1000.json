@@ -1,0 +1,15 @@
+{
+    "answers": [
+        [
+            1,
+            "paris"
+        ],
+        [
+            2,
+            "car"
+        ]
+    ],
+    "examID": 1000,
+    "isFinished": false,
+    "studentID": 1
+}

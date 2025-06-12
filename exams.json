@@ -1,0 +1,58 @@
+[
+    {
+        "duration": 30,
+        "examID": 1000,
+        "questions": [
+            {
+                "answer": "islamabad",
+                "options": [
+                    "paris",
+                    "lahore",
+                    "islamabad",
+                    "london"
+                ],
+                "questionID": 1,
+                "questionText": "What is the capital city of pakistan?",
+                "type": "MCQ"
+            },
+            {
+                "answer": "car",
+                "options": [
+                    "horse",
+                    "burger",
+                    "car",
+                    "candy"
+                ],
+                "questionID": 2,
+                "questionText": "what is a vehicle?",
+                "type": "MCQ"
+            }
+        ],
+        "subject": "GK"
+    },
+    {
+        "duration": 30,
+        "examID": 1001,
+        "questions": [
+            {
+                "answer": "69",
+                "options": [
+                    "11",
+                    "434",
+                    "77",
+                    "69"
+                ],
+                "questionID": 3,
+                "questionText": "What is 33+36?",
+                "type": "MCQ"
+            },
+            {
+                "answer": "four",
+                "questionID": 4,
+                "questionText": "What is 2+2?",
+                "type": "Descriptive"
+            }
+        ],
+        "subject": "Maths"
+    }
+]

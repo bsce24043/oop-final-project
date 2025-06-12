@@ -1,0 +1,22 @@
+{
+<<<<<<< Updated upstream
+    "averageScore": 50.0,
+    "results": [
+        {
+            "correctAnswers": 1,
+            "examID": 1000,
+            "examType": "MCQ",
+            "score": 50,
+            "totalQuestions": 2
+=======
+    "averageScore": 37.0,
+    "results": [
+        {
+            "examID": 1000,
+            "examType": "MCQ",
+            "score": 37
+>>>>>>> Stashed changes
+        }
+    ],
+    "studentID": 1
+}

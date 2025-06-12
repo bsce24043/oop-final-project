@@ -1,0 +1,21 @@
+[
+    {
+        "deadline": {
+            "dueDate": "2025-05-26",
+            "examID": 1002
+        },
+        "id": 1,
+        "isSent": false,
+        "message": "Maths exam"
+    },
+    {
+        "deadline": {
+            "dueDate": "2025-05-26",
+            "examID": 1000
+        },
+        "id": 1,
+        "isSent": false,
+        "message": "Mathematics exam reminder",
+        "priority": 4
+    }
+]

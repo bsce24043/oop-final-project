@@ -1,0 +1,13 @@
+{
+    "averageScore": 100.0,
+    "results": [
+        {
+            "correctAnswers": 2,
+            "examID": 1001,
+            "examType": "MCQ",
+            "score": 100,
+            "totalQuestions": 2
+        }
+    ],
+    "studentID": 2
+}
